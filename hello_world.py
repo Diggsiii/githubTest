@@ -1,4 +1,7 @@
 
 
 print("hello, world")
-print("idk")
+print("hello, world 2")
+print("hi")
+print("lol")
+print("test1")
