@@ -1,6 +1,6 @@
 #<<<<<<< HEAD
-name = "Q"
-=======
+#name = "Q"
+#=======
 
 
 print("hello, world")
